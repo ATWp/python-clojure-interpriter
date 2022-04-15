@@ -1,4 +1,4 @@
-# python-clojure-interpriter
+# CLython
  *clojure interpreter written in python*
  **второе название проекта**: CLython
  

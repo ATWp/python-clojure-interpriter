@@ -1,4 +1,4 @@
-# Syntax python-clojure-interpriter
+# Syntax CLython
  *В данном файле содержиться описание синтаксиса CLython*
  
 ## Минимальная программа
