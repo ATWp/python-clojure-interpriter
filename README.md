@@ -1,5 +1,5 @@
 # python-clojure-interpriter
- clojure interpreter written in python
+ *clojure interpreter written in python*
  **второе название проекта**: CLython
  
 ## Почему? Зачем? Да еще и на python!?!?!?!
@@ -26,3 +26,19 @@
 
 ## Syntax
 Найти информацию по синтаксису, можно в отдельном [файле](https://github.com/ATWp/python-clojure-interpriter/blob/main/Syntax.md)
+
+### Пример Hello, World!
+```clojure
+(print "Hello, World!")
+```
+
+
+## Install
+
+
+
+## Особенности языка и UX
+Найти информацию по UX, можно в отдельном [файле](https://github.com/ATWp/python-clojure-interpriter/blob/main/Language_Features_and_UX.md)
+
+## Статьи на хабре
+
