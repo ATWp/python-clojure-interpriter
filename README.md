@@ -42,7 +42,7 @@
 ### Version *0.1.0*
 	*15.04.2022*
 	Самый простой интерпритатор, написанный в jupyter
-	[Release](https://github.com/ATWp/python-clojure-interpriter/releases/tag/%23CLython-jupyter-0.1.0)
+[Release](https://github.com/ATWp/python-clojure-interpriter/releases/tag/%23CLython-jupyter-0.1.0)
 
 
 ## Особенности языка и UX
