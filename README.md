@@ -1,6 +1,5 @@
 # CLython
  *clojure interpreter written in python*
- **второе название проекта**: CLython
  
 ## Почему? Зачем? Да еще и на python!?!?!?!
 Данный проект важен для меня по ряду причин:
@@ -35,7 +34,15 @@
 
 
 ## Install
+
 ### Version *0.0.1*
+	*14.04.2022*
+	Идея и больше ничего
+	
+### Version *0.1.0*
+	*15.04.2022*
+	Самый простой интерпритатор, написанный в jupyter
+	[Release](https://github.com/ATWp/python-clojure-interpriter/releases/tag/%23CLython-jupyter-0.1.0)
 
 
 ## Особенности языка и UX
