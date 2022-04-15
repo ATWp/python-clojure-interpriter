@@ -25,4 +25,4 @@
 
 
 ## Syntax
-Найти информацию по синтаксису, можно в отдельном [файле]()
+Найти информацию по синтаксису, можно в отдельном [файле](https://github.com/ATWp/python-clojure-interpriter/blob/main/Syntax.md)
