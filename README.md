@@ -1,4 +1,4 @@
-# CLython
+# CLython - *0.0.1*
  *clojure interpreter written in python*
  **второе название проекта**: CLython
  
@@ -25,7 +25,7 @@
 
 
 ## Syntax
-Найти информацию по синтаксису, можно в отдельном [файле](https://github.com/ATWp/python-clojure-interpriter/blob/main/Syntax.md)
+Найти информацию по синтаксису, можно в отдельном [файле](https://github.com/ATWp/python-clojure-interpriter/blob/main/__docs__/Syntax.md)
 
 ### Пример Hello, World!
 ```clojure
@@ -34,11 +34,11 @@
 
 
 ## Install
-
+### Version *0.0.1*
 
 
 ## Особенности языка и UX
-Найти информацию по UX, можно в отдельном [файле](https://github.com/ATWp/python-clojure-interpriter/blob/main/Language_Features_and_UX.md)
+Найти информацию по UX, можно в отдельном [файле](https://github.com/ATWp/python-clojure-interpriter/blob/main/__docs__/Language_Features_and_UX.md)
 
 ## Статьи на хабре
 
