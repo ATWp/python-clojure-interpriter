@@ -26,6 +26,7 @@
 
 ## Syntax
 Найти информацию по синтаксису, можно в отдельном [файле](https://github.com/ATWp/python-clojure-interpriter/blob/main/__docs__/Syntax.md)
+Также информация из документации по синтаксису, будет дублироваться в [wiki](https://github.com/ATWp/python-clojure-interpriter/wiki)
 
 ### Пример Hello, World!
 ```clojure
