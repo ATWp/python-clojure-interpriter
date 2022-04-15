@@ -1,4 +1,4 @@
-# CLython - *0.0.1*
+# CLython *0.0.1*
  *clojure interpreter written in python*
  **второе название проекта**: CLython
  
