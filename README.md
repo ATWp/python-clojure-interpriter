@@ -18,53 +18,29 @@
 	г) IDE
 	д) Свои библиотеки
 	ж) ?
-10. Сделать удобный UX дизайн языка программирования, а не как все современные языки - лишь бы сделать максимальную производительность и  классный GC. Если объяснить проще, то переплюнуть python по качеству и читаемости синтаксиса
+10. Сделать удобный UX дизайн языка программирования, а не как все современные языки - лишь бы сделать максимальную производительность и  классный GC или внедрить другие фишки. Если объяснить проще, то переплюнуть python по качеству и читаемости синтаксиса
 11. Возможно, придумать свой метод обработки ошибок
 	
+	
+## Version
+**Текущая версия**: 0.2.0
+[Описание версий и их изменения](https://github.com/ATWp/python-clojure-interpriter/blob/main/Version.md)
 
 
 ## Syntax
 Найти информацию по синтаксису, можно в отдельном [файле](https://github.com/ATWp/python-clojure-interpriter/blob/main/__docs__/Syntax.md)<br>
 Также информация из документации по синтаксису, будет дублироваться в [wiki](https://github.com/ATWp/python-clojure-interpriter/wiki)
 
+
 ### Пример Hello, World!
 ```clojure
 (print "Hello, World!")
 ```
+**Подробный синтаксис языка можно найти в ..**
+[Cast CLython](https://github.com/ATWp/python-clojure-interpriter/blob/main/__docs__/Cast_CLython.md) *Cast - Это базовый синтаксис, примеры кода, лучшие решения(Best Practise = BP)*
+[Wiki](https://github.com/ATWp/python-clojure-interpriter/wiki)
+[документации](https://github.com/ATWp/python-clojure-interpriter/blob/main/__docs__)
 
-## Version
-[Когда будет выпущена версия 1.0?]()
-
-### Version *0.0.1*
-	*14.04.2022*
-	Идея и больше ничего
-	
-### Version *0.1.0*
-	*15.04.2022*
-	Самый простой интерпритатор, написанный в jupyter
-[Release version 0.1.0](https://github.com/ATWp/python-clojure-interpriter/releases/tag/%23CLython-jupyter-0.1.0)
-
-## Version *0.1.1*
-	*19.04.2022*
-	**Рефракторинг кода**
-	
-	**Изменения**
-	- Создан класс интерпритатора CLython в качестве фасада работы с кодом
-	- Создан класс Reserved_Functions для вызова зарезервированных функций
-	- Добавлены методы, позволяющие вычислять базовые математические операции
-	
-	**Исправления**:
-	- Изменена структура тестов
-	- Исправлена функция тестирования
-	- Выполняется проверка выходных значений тестов
-	
-	- Изменен парсер. Теперь символы - разделители, удаляются при парсинге
-	
-	**Количество пройденых тестов**
-	*<span style="color:green">Удачных (Good)</span>*: 10
-	*<span style="color:red">Неудачных</span>*: 14
-	*<span style="color:yellow">Ошибок итератора</span>*: 1
-[Release version 0.1.1](https://github.com/ATWp/python-clojure-interpriter/releases/tag/%23CLython-jupyter-0.1.1)
 
 ## Особенности языка и UX
 Найти информацию по UX, можно в отдельном [файле](https://github.com/ATWp/python-clojure-interpriter/blob/main/__docs__/Language_Features_and_UX.md)
