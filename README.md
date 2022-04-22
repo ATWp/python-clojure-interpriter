@@ -23,7 +23,7 @@
 	
 	
 ## Version
-**Текущая версия**: 0.2.0
+**Текущая версия**: 0.2.0<br>
 [Описание версий и их изменения](https://github.com/ATWp/python-clojure-interpriter/blob/main/Version.md)
 
 
@@ -36,8 +36,8 @@
 ```clojure
 (print "Hello, World!")
 ```
-**Подробный синтаксис языка можно найти в ..**
-[Cast CLython](https://github.com/ATWp/python-clojure-interpriter/blob/main/__docs__/Cast_CLython.md) *Cast - Это базовый синтаксис, примеры кода, лучшие решения(Best Practise = BP)*
+**Подробный синтаксис языка можно найти в ..**<br>
+[Cast CLython](https://github.com/ATWp/python-clojure-interpriter/blob/main/__docs__/Cast_CLython.md)<br> *Cast - Это базовый синтаксис, примеры кода, лучшие решения(Best Practise = BP)*
 [Wiki](https://github.com/ATWp/python-clojure-interpriter/wiki)
 [документации](https://github.com/ATWp/python-clojure-interpriter/blob/main/__docs__)
 
