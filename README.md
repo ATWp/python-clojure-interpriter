@@ -37,9 +37,9 @@
 (print "Hello, World!")
 ```
 **Подробный синтаксис языка можно найти в ..**<br>
-[Cast CLython](https://github.com/ATWp/python-clojure-interpriter/blob/main/__docs__/Cast_CLython.md)<br> *Cast - Это базовый синтаксис, примеры кода, лучшие решения(Best Practise = BP)*
-[Wiki](https://github.com/ATWp/python-clojure-interpriter/wiki)
-[документации](https://github.com/ATWp/python-clojure-interpriter/blob/main/__docs__)
+[Cast CLython](https://github.com/ATWp/python-clojure-interpriter/blob/main/__docs__/Cast_CLython.md)<br> *Cast - Это базовый синтаксис, примеры кода, лучшие решения(Best Practise = BP)*<br>
+[Wiki](https://github.com/ATWp/python-clojure-interpriter/wiki)<br>
+[документации](https://github.com/ATWp/python-clojure-interpriter/blob/main/__docs__)<br>
 
 
 ## Особенности языка и UX
