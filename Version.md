@@ -24,12 +24,12 @@
 *<span style="color:yellow">Ошибок итератора</span>*: 1
 
 **Release REPL 0.2.0**
-[Реализация CLython в виде консольного приложения](https://github.com/ATWp/python-clojure-interpriter/releases/tag/%23CLython-multi-0.2.0)
+[Реализация CLython в виде консольного приложения](https://github.com/ATWp/python-clojure-interpriter/releases/tag/#CLython-build-0.2.0)
 **Возможности**:
 1. 
 
 **Release jupyter 0.2.0**	
-[Release version 0.2.0](https://github.com/ATWp/python-clojure-interpriter/releases/tag/%23CLython-multi-0.2.0)
+[Release version 0.2.0](https://github.com/ATWp/python-clojure-interpriter/releases/tag/#CLython-build-0.2.0)
 
 
 ## Version *0.1.1*
